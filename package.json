@@ -1,0 +1,51 @@
+{
+  "name": "exter",
+  "version": "2.0.0",
+  "description": "Advanced Discord Voice Channel Mass Joiner - Educational WebSocket Implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install",
+    "clean": "rm -rf node_modules package-lock.json",
+    "update": "npm update"
+  },
+  "keywords": [
+    "discord",
+    "voice",
+    "websocket",
+    "selfbot",
+    "educational",
+    "nodejs",
+    "api"
+  ],
+  "author": "caramel_rahat",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahat-cmd/exter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rahat-cmd/exter/issues"
+  },
+  "homepage": "https://github.com/Rahat-cmd/exter#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "contributors": [
+    {
+      "name": "caramel_rahat",
+      "email": "rahatfarehin@gmail.com",
+      "url": "https://github.com/Rahat-cmd"
+    }
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
