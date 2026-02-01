@@ -1,8 +1,9 @@
 {
-  "VC_CHANNEL": "your_vc_id",  // Voice Channel ID to join
-  "GUILD_ID": "your_guild_id",    // Server ID where voice channel is
-  "MUTED": false,                       // Users will NOT be muted when joining
-  "DEAFEN": false,                      // Users will NOT be deafened when joining
-  "VIDEO": false                        // Video streaming is disabled
+  "VC_CHANNEL": "your_vc_id",
+  "GUILD_ID": "your_guild_id",
+  "MUTED": false,
+  "DEAFEN": false,
+  "VIDEO": false
 }
+
 
